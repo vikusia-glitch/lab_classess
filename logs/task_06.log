@@ -1,0 +1,7 @@
+[2026-03-09 18:47:37] [INFO] [char* ctor] id=1 this=0x16d03aed0
+[2026-03-09 18:47:37] [INFO] [move ctor] id=2 this=0x103481910 from id=1
+[2026-03-09 18:47:37] [INFO] [char* ctor] id=3 this=0x16d03aeb0
+[2026-03-09 18:47:37] [INFO] [copy ctor] id=4 this=0x103481930 from id=3
+[2026-03-09 18:47:37] [INFO] [char* ctor] id=5 this=0x103481950
+[2026-03-09 18:47:37] [INFO] [char* ctor] id=6 this=0x16d03ae90
+[2026-03-09 18:47:37] [INFO] [move ctor] id=7 this=0x103481970 from id=6

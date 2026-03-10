@@ -1,0 +1,5 @@
+[2026-03-09 12:43:22] [INFO] [default ctor] id=1 this=0x16b0fef00
+[2026-03-09 12:43:22] [INFO] [char* ctor] id=2 this=0x16b0feee0
+[2026-03-09 12:43:22] [INFO] [string ctor] id=3 this=0x16b0feea8
+[2026-03-09 12:43:22] [INFO] [copy ctor] id=4 this=0x16b0fee88 from id=3
+

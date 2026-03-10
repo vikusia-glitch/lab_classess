@@ -1,0 +1,7 @@
+
+[2026-03-09 18:12:02] [INFO] [char* ctor] id=1 this=0x16d166ee8
+[2026-03-09 18:12:02] [INFO] [char* ctor] id=2 this=0x16d166ec8
+[2026-03-09 18:12:02] [INFO] [operator<<] id=1
+[2026-03-09 18:12:02] [INFO] [operator<<] id=2
+[2026-03-09 18:12:02] [INFO] [operator+] id1=1 id2=2
+[2026-03-09 18:12:02] [INFO] [string ctor] id=3 this=0x16d166ea8
